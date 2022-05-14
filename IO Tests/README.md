@@ -1,3 +1,7 @@
+### Find the collectibles
+
+Below I have included datasets to cover different possible situations that allow you to test many different aspects of the finder function.
+  
 | Input | Output | Description |  
 |---|---|---|
 |  | 0 | Minimal input  |
